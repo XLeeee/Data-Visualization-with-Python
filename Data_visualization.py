@@ -4,6 +4,8 @@ import openpyxl
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 
+#Link download Canada dataset
+#URL = 'https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/Canada.xlsx'
 
 mpl.style.use('ggplot') # optional: for ggplot-like style
 #read Canadian dataset excel file and read it into a pandas dataframe
